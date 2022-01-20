@@ -1,0 +1,23 @@
+.pp{
+    background-color: #FFFBF0;
+    
+}
+.card{
+    border: none;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+}
+.my-card{
+    margin-top: 145px;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    
+    
+
+}
+.my-img{
+    width: 70%;
+    background-color: #F1F1F1;
+    border-radius: 10px;
+    
+   
+}
